@@ -1,8 +1,4 @@
-button {
-  border: 20px solid yellow;
-  background: black;
-  color: white;
-}
+
 
 #young {
   display: none;
@@ -14,4 +10,14 @@ button {
 
 #middle {
   display: none;
+}
+#pants {
+  width: 300px;
+
+}
+p {
+  font-size: 30px;
+}
+#old {
+  font-size: 30px;
 }
