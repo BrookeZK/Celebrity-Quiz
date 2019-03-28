@@ -1,5 +1,7 @@
 button {
-  border: 2px dotted purple;
+  border: 20px solid yellow;
+  background: black;
+  color: white;
 }
 
 #young {
